@@ -12,7 +12,7 @@ int multiply(int a, int b)
 
 int main()
 {
-	printf("hey, ross!");
+	printf("hey, little ross!");
 	return 0;
 	
 }
